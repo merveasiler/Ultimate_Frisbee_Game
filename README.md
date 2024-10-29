@@ -3,7 +3,7 @@ The Ultimate Frisbee Game on PIC18F8722
 
 The problem is defined in the PDF:
 
-[Ceng336_20222_THE3.pdf](https://github.com/user-attachments/files/17547227/THE3.pdf)
+[Problem&Specs.pdf](https://github.com/user-attachments/files/17547227/THE3.pdf)
 
 
 
