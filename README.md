@@ -1,4 +1,4 @@
-The Ultimate Frisbee Game on PIC18F8722
+The Ultimate Frisbee Game on PIC18F4620
 
 
 The problem is defined in the PDF:
